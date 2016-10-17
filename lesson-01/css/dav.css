@@ -1,0 +1,47 @@
+html, body { 
+	color: white;
+	margin: 0;
+	font-size: 16px;
+	font-family:"Lato";
+}
+
+.page {
+	width: 600px;
+	margin: 0 auto;
+	padding-top:35px;
+}
+
+h1 { 
+	margin: 0;
+	font-size :45px;
+	font-weight:300;
+}
+
+h2 {
+	color: yellow;
+	font-size: 16px;
+	margin:0;
+}
+
+
+a { color: #51a4ff }
+a:hover { color: #f00 }
+
+.image img { width: 100% }
+
+.text { margin-top: 25px }
+.large-text { font-size: 24px }
+.text-narrow { width: 72% }
+.spacer-large { height: 40px }
+.spacer-medium { height: 20px }
+
+
+/* colors */
+.white { color: white }
+.black { color: black }
+
+
+/* background colors */
+.black-bg { background-color: black }
+.orange-bg { background-color: orange }
+
