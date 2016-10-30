@@ -1,0 +1,110 @@
+html { font-family:"Lato"}
+
+header .header-inner {
+	width: 965px;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+
+	
+}
+
+nav {float: left}
+
+nav li {
+	display :inline-block;
+	color: #3c58a7;
+	text-transform: uppercase;
+	line-height: 54px;
+	margin-right: 25px;
+}	
+
+.active {color: #dbd8d7}
+
+
+.social-icons {
+	float: right;
+}
+
+.banner { background: #dbd8d7;
+		  padding-top: 30px;
+		  padding-bottom: 30px;
+}
+
+.logo { 
+	position: absolute;
+	left: 30px;
+	top: 30px;
+	height: 128px
+}
+
+.banner-inner {
+	margin: 0 auto;
+	width: 965px;
+	position: relative;
+}
+
+.news { 
+	margin: 0 auto; 
+	width: 965px;
+}
+
+.news h1 { 
+	line-height: 50px;
+	display: inline-block; 
+	font-size: 15px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.news .news-heading-coment { margin-left: 15px }
+.news li { 
+	display :inline-block;
+	margin-right: 15px;
+	float: left;
+}
+
+li img { display: block}
+
+.news li:last-child {margin-right: 0}
+.news h3 {
+	background: #dbd8d7;
+	line-height: 40px;
+	padding-left: 15px;
+}
+
+div { clear: both }
+
+.videos-title {
+	margin: 0 auto;
+	width: 965px;
+}
+
+
+.videos-title h1 { 
+	line-height: 50px;
+	display: inline-block; 
+	font-size: 15px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.videos-title .videos-heading-coment {margin-left: 15px;}
+
+.videos {
+	height: 244px;
+	background :rgba(4, 4, 210, 0.69);
+	padding-top: 24px;
+	padding-bottom: 24px;
+}
+
+.videos ul { 
+	margin: 0 auto;
+	width: 965px; 
+}
+
+.videos li {float: left;}
+
+.videos li:first-child { 
+	margin-right: 15px; 
+}
